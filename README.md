@@ -12,10 +12,9 @@ i'm currently learning AI<br>i'm looking to collaborate on AI projects<br>ASK me
 ![](https://nirzak-streak-stats.vercel.app/?user=kishnakushwaha91-afk&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishnakushwaha91-afk&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kishnakushwaha91-afk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kishnakushwaha91-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
